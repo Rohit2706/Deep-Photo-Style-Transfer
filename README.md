@@ -16,7 +16,7 @@ Our model makes the following assumptions:
 3. The input image is already photorealistic.
 4. Weights as mentioned in the paper.
 
-## Results obtained are attached in the powerpoint presentation attached in this repository.
+#### Results obtained are attached in the powerpoint presentation attached in this repository.
 
 [Powerpoint Presentation](https://github.com/Rohit2706/Deep-Photo-Style-Transfer/blob/master/Deep%20Photo%20Style%20Transfer.pptx)
 
